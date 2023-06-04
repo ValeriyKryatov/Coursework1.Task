@@ -3,7 +3,7 @@ public class Main {
         System.out.println(isStringPalindrome("Искать такси"));
         System.out.println(isStringPalindrome("Лидер бредил"));
         System.out.println(isStringPalindrome("А роза упала на лапу Азораff"));
-        System.out.println(isStringPalindrome("Уж редко рукою окурок держу"));
+        System.out.println(isStringPalindrome("Уж редкоуу рукою окурок держу"));
     }
     private static boolean isStringPalindrome(String string) {
         var chars = string.toLowerCase().toCharArray();
